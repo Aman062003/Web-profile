@@ -1,26 +1,50 @@
 [
   {
-    "title": "Project A",
+    "title": "Brainwave",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to learn the latest languages by building an UI/UX APP.",
+    "skills": ["React js", "Vite", "Tailwind CSS"],
+    "demo": "https://github.com/Aman062003/Brainwave",
+    "source": "https://github.com/Aman062003/Brainwave"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Food-Delivery Website",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building a MERN APP.",
+    "skills": ["React js", "MongoDB", "Node js", "Express js"],
+    "demo": "https://github.com/Aman062003/Food-Delivery-App",
+    "source": "https://github.com/Aman062003/Food-Delivery-App"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Weather App",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to practice skills by building a Weather App.",
+    "skills": ["HTML5", "CSS3", "Javascript"],
+    "demo": "https://github.com/Aman062003/Weather-App",
+    "source": "https://github.com/Aman062003/Weather-App"
+  },
+  {
+    "title": "Quote APP",
+    "imageSrc": "projects/quote.png",
+    "description": "This is a project made to practice skills by building a Quote-Gen App.",
+    "skills": ["HTML5", "CSS3", "Javascript", "API"],
+    "demo": "https://github.com/Aman062003/Daily-Quote-GEn",
+    "source": "https://github.com/Aman062003/Daily-Quote-GEn"
+  },
+  {
+    "title": "Calculator",
+    "imageSrc": "projects/calc1.png",
+    "description": "This is a project made to practice skills by building a Calculator.",
+    "skills": ["HTML5", "CSS3", "Javascript"],
+    "demo": "https://github.com/Aman062003/CODSOFT/tree/main/CODESOFT/Calculator",
+    "source": "https://github.com/Aman062003/CODSOFT/tree/main/CODESOFT/Calculator"
+  },
+  {
+    "title": "Notes Taking App",
+    "imageSrc": "projects/note.png",
+    "description": "This is a project made to practice skills by building a Weather App.",
+    "skills": ["HTML5", "CSS3", "Javascript"],
+    "demo": "https://github.com/Aman062003/Note-Taking-App",
+    "source": "https://github.com/Aman062003/Note-Taking-App"
   }
 ]

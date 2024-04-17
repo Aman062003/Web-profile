@@ -16,8 +16,8 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Javascript",
+    "imageSrc": "skills/javascript1.png"
   },
   {
     "title": "MongoDB",
@@ -26,5 +26,25 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Vite",
+    "imageSrc": "skills/vite.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/post.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
   }
 ]
